@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=LineComp
-comment1.params=sc1\ sc2\ c
-comment1.target=LineComp(StationComp,\ StationComp,\ java.awt.Color)
-comment2.params=g
-comment2.target=void\ paintComponent(java.awt.Graphics)
-comment3.params=
-comment3.target=java.lang.String[]\ report()
-numComments=4
